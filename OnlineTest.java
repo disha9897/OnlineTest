@@ -107,7 +107,7 @@ class OnlineTest extends JFrame implements ActionListener      // implementing A
 		}
 	}
 
-	// SET Questions with options,  and this code is fo how to display Questions with options on JFrame. Those are 10 questions with options
+	// SET Questions with options,  and this code is for how to display Questions with options on JFrame. Those are 10 questions with options
 	void set() 
 	{
 		radioButton[4].setSelected(true);
